@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gorgeous Fresh Bike",
+      "description": "Distinctio qui corporis placeat eos. Dicta dolores odit vero neque nam cupiditate dolor quaerat. Reprehenderit rerum esse voluptas nisi velit iste nulla nisi.",
+      "price": "410.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 2,
+      "name": "Handcrafted Plastic Computer",
+      "description": "Quam aut sed eum labore delectus itaque. Exercitationem doloribus suscipit possimus. Consequatur enim amet ut aliquid ex. Aperiam ipsam aut qui ipsam et sed quis.",
+      "price": "63.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 3,
+      "name": "Handmade Metal Chips",
+      "description": "Voluptas totam tempora quaerat dolores animi ut. Sunt eius eos quaerat omnis maiores vero magnam laboriosam. Quisquam ut sint rerum totam dolor eaque id odio dolor. Voluptatum eligendi corrupti praesentium nihil. Est nostrum eum nihil quis nisi aliquid voluptate inventore. Velit accusantium ipsum distinctio aut earum.",
+      "price": "988.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 4,
+      "name": "Handmade Rubber Shirt",
+      "description": "Aut cumque eveniet consectetur qui dolores voluptate quae voluptates recusandae. Voluptas ut molestiae atque dolores et dolores quibusdam aliquid. Alias odit quisquam praesentium animi. Incidunt quas voluptatem. Necessitatibus nemo quas. Consequatur impedit ut aut similique inventore iste omnis.",
+      "price": "430.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "id": 5,
+      "name": "Practical Granite Soap",
+      "description": "Et qui debitis quia. Omnis aut veniam qui velit. Dolores quibusdam et excepturi dicta iste.",
+      "price": "320.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product"
+    },
+    {
+      "name": "fgjngg",
+      "description": "ffff",
+      "id": 6
+    }
+  ]
+}
